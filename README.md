@@ -25,5 +25,5 @@ Projects for the university.
 
 # Main action 
 
-![main](https://github.com/YasarMushtaq1/SDP-final/assets/124120950/a5eca468-4141-4d01-92d1-7f7623ae017b)
+
 
